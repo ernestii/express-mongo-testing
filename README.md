@@ -1,4 +1,4 @@
-## Use jest and mongo-memory-server for testing a controller in a express.js + mongoose app
+## Use jest and mongodb-memory-server for testing a controller in a express.js + mongoose app
 
 Test file: `components/user.test.js`.
 
